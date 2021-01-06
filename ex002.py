@@ -1,3 +1,4 @@
+#digite um valor e exiba seu Antecessor e Sucessor
 n= int(input("digite um numero: "))
 ant= n-1
 suc= n+1

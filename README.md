@@ -24,7 +24,7 @@ ENUNCIADO DOS EXERCICIOS
 
 11) Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
 
-12)
+12)Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
 13)
 

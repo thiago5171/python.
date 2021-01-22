@@ -85,6 +85,6 @@ ENUNCIADO DOS EXERCICIOS
 - em até 2x no cartão: preço formal
 - 3x ou mais no cartão: 20% de juros
  
-30)Crie um programa que faça o computador jogar Jokenpô com você.
+.
 
 31)

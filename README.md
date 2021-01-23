@@ -85,6 +85,46 @@ ENUNCIADO DOS EXERCICIOS
 - em até 2x no cartão: preço formal
 - 3x ou mais no cartão: 20% de juros
  
-.
+30): Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 
-31)
+31)Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+
+32) Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
+
+
+33)faça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for
+
+34)Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
+
+35)Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
+
+36)Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+
+37) Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
+
+38)Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+
+39)faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
+
+40)Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
+
+
+41)
+
+42
+
+43)
+
+44)
+
+45)
+
+46)
+
+46)
+
+47)
+
+48)
+
+49)

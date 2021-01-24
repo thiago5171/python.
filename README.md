@@ -42,7 +42,7 @@ ENUNCIADO DOS EXERCICIOS
 19)Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
 
 20)Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo
--
+
 21)Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
 
 22)Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
@@ -100,7 +100,7 @@ ENUNCIADO DOS EXERCICIOS
 
 36)Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
 
-37) Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
+37)Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
 
 38)Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
 

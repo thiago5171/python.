@@ -109,13 +109,21 @@ ENUNCIADO DOS EXERCICIOS
 40)Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
 
 
-41)
+41)Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.
 
-42
+42)Melhore o jogo do DESAFIO 028 onde o computador vai "pensar" em um número entre 0 e 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
 
-43)
+43)Crie um programa que leia dois valores e mostre um menu na tela:
+[ 1 ] somar
+[ 2 ] multiplicar
+[ 3 ] maior
+[ 4 ] novos números
+[ 5 ] sair do programa
+Seu programa deverá realizar a operação solicitada em cada caso.
 
-44)
+44)Faça um programa que leia um número qualquer e mostre o seu fatorial.
+
+Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120
 
 45)
 

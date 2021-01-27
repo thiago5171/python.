@@ -15,7 +15,7 @@ cont = False
 while cont == False:
     print("=-="*15)
 
-    opcao = int(input("[ 1 ] somar\n"
+    opcao = str(input("[ 1 ] somar\n"
     "[ 2 ] multiplicar\n"
     "[ 3 ] maior\n"
     "[ 4 ] novos números\n"
@@ -24,23 +24,25 @@ while cont == False:
     
     print("=-="*15)
     
-    if (opcao == 1):
+    if (opcao == "1"):
         print("a soma entre {} + {} é {} ".format(x,y,x+y))
-    elif (opcao==2):
+    elif (opcao=="2"):
         print("a multiplicação entre {} x {} é {} ".format(x,y,x*y))
-    elif (opcao==3):
+    elif (opcao=="3"):
         if (x>y):
             print("o maior é {}".format(x))
         else:
             print("o maior é {}".format(y))
-    elif(opcao == 4):
+    elif(opcao == "4"):
         x = int(input("digite um numero: "))
         y = int(input("digite outro numero: "))
-    else:
+    elif (opcao == "5"):
         cont = True
         print("Finalizando o programa...")
         sleep(2)
-    sleep(1.6)
+    else:
+        print("Opcção invalida, digite novamente")
+  
 
 
 

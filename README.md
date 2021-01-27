@@ -126,7 +126,7 @@ Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120
 
 44)Refaça o DESAFIO 035, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
 
-45)Melhore o DESAFIO 061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos
+45)Melhore o DESAFIO 44, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos
 
 46) Escreva um programa que leia um número N inteiro qualquer e mostre na tela os N primeiros elementos de uma Sequência de Fibonacci. 
 

@@ -125,15 +125,17 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 
 Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120
 
-45)
+45)Refaça o DESAFIO 035, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
 
-46)
+46) Melhore o DESAFIO 061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos
 
-46)
+46) Escreva um programa que leia um número N inteiro qualquer e mostre na tela os N primeiros elementos de uma Sequência de Fibonacci. 
 
-47)
+Ex: 0 - 1 - 1 - 2 - 3 - 5 - 8
 
-48)
+47)Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag).
+
+48)Crie um programa que leia vários números inteiros pelo teclado. No final da execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
 
 49)
 50)

@@ -4,16 +4,15 @@ cont2=1
 
 aux2=1
 aux1=0
-print("0->  ", end=' ')
-while cont <= n/2:
+print("0-> 1->", end=' ')
+while cont <= n-2:
    
     aux3 = aux1+aux2
-    n1=aux3
-    aux3=n1 +aux2
-    print("{}-> {}->".format(n1,aux3), end=' ')
-        
-    aux1 = n1
+
+    print("{}-> ".format(aux3), end=' ')
+       
+    aux1 = aux2
     aux2 = aux3
 
     cont +=1
-        
+print("FIM")    

@@ -139,21 +139,21 @@ Ex: 0 - 1 - 1 - 2 - 3 - 5 - 8
            
 48)Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo. 
 
-49)Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
-
-50)Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
+49)Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
 A) quantas pessoas tem mais de 18 anos.
 B) quantos homens foram cadastrados.
 C) quantas mulheres tem menos de 20 anos. 
- 
-51)Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar ou não. No final, mostre:
+
+50)Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar ou não. No final, mostre:
 A) qual é o total gasto na compra.
 B) quantos produtos custam mais de R$1000.
 C) qual é o nome do produto mais barato
-
-52) Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
+ 
+51)Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
 OBS: considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1
 
+
+52) 
 53)
 
 54)

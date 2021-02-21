@@ -26,6 +26,7 @@ while True :
     continuar = str(input("deseja adicionar outro produto? [S/N] ")).upper()
     if continuar =="N":
         break
+print("\n")
 print("o total gasto na compra foi {} reais \n"
-"{} produto custam mais de 1000 reais \n"
+"{} produto custa mais de 1000 reais \n"
 "o nome do produto mais barato é {}".format(gasto,contmil,barato))

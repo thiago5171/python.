@@ -1,4 +1,4 @@
-""" Desenvolva em cada LP um programa que solicite o preço de uma mercadoria e o percentual de desconto.
+""" Desenvolva  um programa que solicite o preço de uma mercadoria e o percentual de desconto.
  Exiba o valor do desconto e o preço a pagar."""
  
 preço= float (input ("digite o valor da mercadoria: "))

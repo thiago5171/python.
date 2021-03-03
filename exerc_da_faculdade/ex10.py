@@ -23,4 +23,4 @@ elif instalacao =="I":
 else:
     print("erro")
 print(f"o preco total a pagar foi de R${pagar:.2f}")
-    
+        

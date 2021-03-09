@@ -26,3 +26,15 @@ como sendo o valor da casa a comprar dividido pelo número de meses a pagar.
 
 [#5] Desenvolva em cada LP um programa que calcule o preço a pagar pelo fornecimento de energia elétrica. Pergunte a quantidade de kWh consumida
 e o tipo de instalação: R para residências, I para indústrias e C para comércios. Calcule o preço a pagar de acordo com a tabela a seguir:
+
+-------------------------------------------------AULA 3---------------------------------------------------
+
+[#1] Desenvolva em cada LP um programa que exiba uma lista de opções (menu): adição, subtração, divisão, multiplicação e sair. Imprima a tabuada da operação escolhida. Repita até a opção saída seja escolhida.
+
+[#2] Desenvolva em cada LP um programa que leia um número e verifique se é ou não um número primo. Para fazer essa verificação, calcule o resto da divisão do número por 2 e depois por todos os números ímpares até o número lido. Se o resto de uma dessas divisões for igual a zero, o número não é primo. Observe que o 0 e 1 não são primos e que 2 é o único número primo que é par.
+
+[#3] Desenvolva em cada LP um programa que calcule a raiz quadrada de um número. Utilize o método de Newton para obter um resultado aproximado. Sendo n o número a obter a raiz quadrada, considere a base b=2. Calcule p usando a fórmula p=(b+(n/b))/2. Agora, calcule o quadrado de p. A cada passo, faça b=p e recalcule p usando a fórmula apresentada. Pare quando a diferença absoluta entre n e o quadrado de p for menor que 0,0001.
+
+[#4] Desenvolva em cada LP um programa que calcule o resto da divisão inteira entre dois números. Utilize apenas as operações de soma e subtração para calcular o resultado..
+
+[#5] Desenvolva em cada LP um programa que verifique se um número é palíndromo. Um número é palíndromo se continua o mesmo caso seus dígitos sejam invertidos. Exemplos: 454, 10501.

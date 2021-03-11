@@ -16,7 +16,7 @@ for i in range(2,n,2):
         if (n%i==0):
             cont+=1
 if cont==0:
-    print("primo")
+    print("numero é primo")
 else:
     print("numero não é primo")
 

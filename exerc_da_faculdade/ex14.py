@@ -3,12 +3,10 @@ apenas as operações de soma e subtração para calcular o resultado.
 """
 dividendo=int(input("digite o numero do dividendo: "))
 divisor=int(input("digite o numero do divisor: "))
-cont=0
 
-for i in range(1,dividendo+1,divisor):
-    cont+=1
+while dividendo>=divisor:
+    dividendo= dividendo-divisor
 
-if dividendo%2==1:
-    print(f"o resultado da divisão foi {cont-1}")
-else:
-    print(f"o resultado da divisão foi {cont}  ")
+
+print(f"o resto eh => {dividendo}")
+    

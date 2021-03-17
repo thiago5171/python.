@@ -1,4 +1,4 @@
-Enunciado dos exercicios da pasta "exerc_da_faculdade"
+Enunciado dos exercicios da pasta "exerc_da_faculdade" 
 -------------------------------------------------AULA 1---------------------------------------------------
 [#1]  Desenvolva  um programa que calcule o aumento de um salário. Ele deve solicitar o valor do salário e a porcentagem do aumento. Exiba o valor do aumento e do novo salário.
 

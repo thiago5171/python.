@@ -38,3 +38,15 @@ e o tipo de instalação: R para residências, I para indústrias e C para comé
 [#4] Desenvolva em cada LP um programa que calcule o resto da divisão inteira entre dois números. Utilize apenas as operações de soma e subtração para calcular o resultado..
 
 [#5] Desenvolva em cada LP um programa que verifique se um número é palíndromo. Um número é palíndromo se continua o mesmo caso seus dígitos sejam invertidos. Exemplos: 454, 10501.
+
+17)Faça um programa em C que calcula e escreve a seguinte soma:
+soma = 1/1 + 3/2 + 5/3 + 7/4 + ... + 99/50
+
+
+18)Dado um número n inteiro e positivo, dizemos que n é perfeito se n for igual à soma de
+seus divisores positivos diferentes de n. Construa um programa em C que verifica se um
+dado número é perfeito. Ex: 6 é perfeito, pois 1+2+3 = 6.
+
+19). Faça um programa que leia vários conjuntos de três valores reais e mostre para cada
+conjunto: sua soma, seu produto e sua média. O programa para quando um conjunto não
+entrar com seus valores em ordem crescente.

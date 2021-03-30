@@ -27,3 +27,4 @@ for i in range(p,len(s)):
     
 if verificador == False:
     print("\ INDICE NAO ENCONTRADO\n ")
+

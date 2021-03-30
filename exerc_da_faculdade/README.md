@@ -60,6 +60,16 @@ entrar com seus valores em ordem crescente.
 
 
 23.) Determinar quantas vogais tem dentro de uma determinada string dada e imprimir a string sem as vogais.
-24.) Receba uma string e calcule a quantidade de consoantes. Entre com um caractere (vogal ou consoante) e substitua todas as vogais da string dada por esse caractere.
+-24.) Receba uma string e calcule a quantidade de consoantes. Entre com um caractere (vogal ou consoante) e substitua todas as vogais da string dada por esse caractere.
 25.) Determinar quantas palavras tem dentro de uma determinada frase.
 26). Ler nove caracteres numéricos em uma string. Mostre o conteúdo dessa string colocando pontos e vírgula, respectivamente nas posições inteiras e decimais. Exemplo: 987654321 → 9.876.543,21. Depois converta para flutuante e faça uma operação de multiplicação por 3, mostrando o resultado.
+
+25) Receba do usuário uma string S, um caractere C, e uma posição P e devolva o ı́ndice da primeira posição da string onde foi encontrado o caractere C. A procura deve começar a partir da posição P.
+
+26) Leia uma cadeia de caracteres no formato “DD/MM/AAAA” e copie o dia, mês e ano para 3 variáveis inteiras. Antes disso, verifique se as barras estão no lugar certo, e se DD, MM e AAAA são numéricos.
+
+27) Leia uma string contendo letras de uma frase inclusive os espaços em branco. Retirar os espaços em branco e depois escrever o vetor resultante.
+
+28) Leia um nome completo de pessoa e imprima apenas o nome e sobrenome no formato SOBRENOME/Nome. Ex.: Antônio Fernando Silva → SILVA/Antônio
+"
+29) Receba duas frases distintas e imprima de maneira invertida, trocando as letras A por *.

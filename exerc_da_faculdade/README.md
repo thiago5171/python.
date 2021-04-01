@@ -71,5 +71,5 @@ entrar com seus valores em ordem crescente.
 27) Leia uma string contendo letras de uma frase inclusive os espaços em branco. Retirar os espaços em branco e depois escrever o vetor resultante.
 
 28) Leia um nome completo de pessoa e imprima apenas o nome e sobrenome no formato SOBRENOME/Nome. Ex.: Antônio Fernando Silva → SILVA/Antônio
-"
+ 
 29) Receba duas frases distintas e imprima de maneira invertida, trocando as letras A por *.

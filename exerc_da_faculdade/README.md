@@ -73,3 +73,7 @@ entrar com seus valores em ordem crescente.
 28) Leia um nome completo de pessoa e imprima apenas o nome e sobrenome no formato SOBRENOME/Nome. Ex.: Antônio Fernando Silva → SILVA/Antônio
  
 29) Receba duas frases distintas e imprima de maneira invertida, trocando as letras A por *.
+
+30] Ler duas matrizes/listas e gere uma terceira com os elementos das duas primeiras.
+31] Percorra duas matrizes/listas e gere uma terceira sem elementos repetidos.
+32] A lista de temperaturas de Mons, na Bélgica, foi armazenada na lista T = [-10, -8, 0, 1, 2, 5, -2, -4]. Mostre a menor e a maior temperatura, assim como a temperatura média.
